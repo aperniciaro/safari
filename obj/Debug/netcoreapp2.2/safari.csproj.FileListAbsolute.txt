@@ -1,0 +1,11 @@
+/Users/aperniciaro/sdg/unit3/safari/bin/Debug/netcoreapp2.2/safari.deps.json
+/Users/aperniciaro/sdg/unit3/safari/bin/Debug/netcoreapp2.2/safari.runtimeconfig.json
+/Users/aperniciaro/sdg/unit3/safari/bin/Debug/netcoreapp2.2/safari.runtimeconfig.dev.json
+/Users/aperniciaro/sdg/unit3/safari/bin/Debug/netcoreapp2.2/safari.dll
+/Users/aperniciaro/sdg/unit3/safari/bin/Debug/netcoreapp2.2/safari.pdb
+/Users/aperniciaro/sdg/unit3/safari/obj/Debug/netcoreapp2.2/safari.csprojAssemblyReference.cache
+/Users/aperniciaro/sdg/unit3/safari/obj/Debug/netcoreapp2.2/safari.csproj.CoreCompileInputs.cache
+/Users/aperniciaro/sdg/unit3/safari/obj/Debug/netcoreapp2.2/safari.AssemblyInfoInputs.cache
+/Users/aperniciaro/sdg/unit3/safari/obj/Debug/netcoreapp2.2/safari.AssemblyInfo.cs
+/Users/aperniciaro/sdg/unit3/safari/obj/Debug/netcoreapp2.2/safari.dll
+/Users/aperniciaro/sdg/unit3/safari/obj/Debug/netcoreapp2.2/safari.pdb
